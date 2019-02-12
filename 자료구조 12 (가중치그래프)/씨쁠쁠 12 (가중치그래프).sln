@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "씨쁠쁠 12 (가중치그래프)", "씨쁠쁠 12 (가중치그래프)\씨쁠쁠 12 (가중치그래프).vcxproj", "{A87E425B-1606-4A4B-A1DF-C84B0A75A507}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A87E425B-1606-4A4B-A1DF-C84B0A75A507}.Debug|x64.ActiveCfg = Debug|x64
+		{A87E425B-1606-4A4B-A1DF-C84B0A75A507}.Debug|x64.Build.0 = Debug|x64
+		{A87E425B-1606-4A4B-A1DF-C84B0A75A507}.Debug|x86.ActiveCfg = Debug|Win32
+		{A87E425B-1606-4A4B-A1DF-C84B0A75A507}.Debug|x86.Build.0 = Debug|Win32
+		{A87E425B-1606-4A4B-A1DF-C84B0A75A507}.Release|x64.ActiveCfg = Release|x64
+		{A87E425B-1606-4A4B-A1DF-C84B0A75A507}.Release|x64.Build.0 = Release|x64
+		{A87E425B-1606-4A4B-A1DF-C84B0A75A507}.Release|x86.ActiveCfg = Release|Win32
+		{A87E425B-1606-4A4B-A1DF-C84B0A75A507}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF6BC5DE-7E73-43E2-9458-74AD2C91F0D2}
+	EndGlobalSection
+EndGlobal

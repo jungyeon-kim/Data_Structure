@@ -1,0 +1,3 @@
+﻿  09장-BinSrchTree.c
+c:\users\김정연\desktop\자료구조 소스코드\09장-탐색트리\09장-binsrchtree\09장-binsrchtree.c(151): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'TNode *'입니다.
+  자료구조 8 (트리).vcxproj -> C:\Users\김정연\source\repos\자료구조 8 9 (트리)\Debug\자료구조 8 (트리).exe
